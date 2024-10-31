@@ -27,6 +27,10 @@
     <li>JavaScript</li>
 </ol>
 <ul>
+<div class="first-div">
+    <p>Your short message goes here</p>
+</div>
+
     <li>Frontend Development</li>
     <li>Backend Development</li>
     <li>Full-Stack Development</li>
