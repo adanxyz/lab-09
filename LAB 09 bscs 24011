@@ -16,3 +16,19 @@
 <p>Name: Adan zubair</p>
 <p>Roll Number: bscs 24011</p>
 <p>Subject: Applications of ICT</p>
+
+<a href="https://www.google.com">
+    <img src="image.jpg" alt="Clickable Image">
+</a>
+<a href="https://www.gmail.com" target="_blank">Go to Gmail</a>
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ol>
+<ul>
+    <li>Frontend Development</li>
+    <li>Backend Development</li>
+    <li>Full-Stack Development</li>
+</ul>
+
