@@ -1,6 +1,6 @@
 .first-div {
-    width: 500px;
-    height: 500px;
+    width: 5px;
+    height: 5px;
     background-color: lightblue; 
     border: 3px solid navy; 
     border-radius: 20%;
@@ -8,7 +8,7 @@
     padding: 5px;
 }
 .normal-para {
-    color: green;
+    color: green;ddd
 }
 
 #fav-para {
